@@ -1,0 +1,11 @@
+{
+  "name": "demo接口",
+  "version": "0.0.1",
+  "description": "demo接口",
+  "title": "demo接口",
+  "url" : "http://×××××:8080/interface",
+  "order": ["Example","Home"],
+  "template": {
+  	"forceLanguage": "zh_cn"
+  }
+}
