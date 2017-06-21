@@ -3,16 +3,16 @@
 学习apidoc使用
 
 
-#安装
- - 主页[http://apidocjs.com](http://apidocjs.com)
- - github[https://github.com/apidoc/apidoc](https://github.com/apidoc/apidoc)
+# 安装
+ - 主页  [http://apidocjs.com](http://apidocjs.com)
+ - github   [https://github.com/apidoc/apidoc](https://github.com/apidoc/apidoc)
 
  - apidoc 安装命令(安装node.js和npm为前提)
 ```bash
 npm install apidoc -g
 ```
 
-#apidoc命令的使用
+# apidoc命令的使用
 
 ```bash
 apidoc -i api/ -o doc/api [-c ./] -f ".*\.js$"
